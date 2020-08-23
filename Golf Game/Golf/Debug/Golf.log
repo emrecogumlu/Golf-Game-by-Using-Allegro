@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Emre\Desktop\Yeni klasör (2)\Yeni klasör\Golf\Source.c(283,59): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\Emre\Desktop\Yeni klasör (2)\Yeni klasör\Golf\Source.c(283,59): warning C4024: 'al_load_font': different types for formal and actual parameter 3
+  Golf.vcxproj -> C:\Users\Emre\Desktop\Yeni klasör (2)\Yeni klasör\Debug\Golf.exe
